@@ -1,4 +1,4 @@
-# Design-and-development-of-aircraft-integrated-control-system (飞机综合控制设计与实践)
+# Design and development of aircraft integrated control system (飞机综合控制设计与实践)
 
 A project-based course in which students build, program, and test quadrotors through teamwork and independent problem-solving.
 
